@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/khang-dogo.png" width="140" style="border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/391ff2f7-3540-40f8-8d5a-cf3cb8384939" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/khang-dogo.png" width="140" />
 </p>
 
 <h1 align="center">🦊 Khang Dogo</h1>
@@ -33,28 +37,90 @@ Hey 👋 I'm Khang — a developer who lives somewhere between **clean code** an
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Cyberpunk Dev Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khang-dogo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khang-dogo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khang-dogo&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khang-dogo&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Coding Streak
+## 🔥 Coding Streak & Pulse
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khang-dogo&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=khang-dogo&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khang-dogo&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khang-dogo&theme=tokyonight&utcOffset=7" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect
+## ⚡ Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/khang-dogo">
-    <img src="https://img.shields.io/badge/GitHub-khang--dogo-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khang-dogo&theme=tokyo-night&hide_border=true&radius=12" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/khang-dogo/khang-dogo/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🛰️ Current Status
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <b>🌙 Mode</b><br/>
+      Night Coder
+    </td>
+    <td align="center" width="250">
+      <b>☕ Fuel</b><br/>
+      Coffee
+    </td>
+    <td align="center" width="250">
+      <b>🧠 Focus</b><br/>
+      Building & Learning
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🐞 Mission</b><br/>
+      Turn bugs into features
+    </td>
+    <td align="center">
+      <b>🚀 Goal</b><br/>
+      Keep improving every day
+    </td>
+    <td align="center">
+      <b>🦊 Spirit</b><br/>
+      Sleepy but curious
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧩 Developer Identity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Style-Cyberpunk-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vibe-Sleepy%20Fox-A970FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Company-Dogo%20Corporation-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-58A6FF?style=for-the-badge"/>
 </p>
 
 ---
