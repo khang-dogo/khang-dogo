@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/391ff2f7-3540-40f8-8d5a-cf3cb8384939" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github.com/khang-dogo.png" width="140" />
 </p>
 
